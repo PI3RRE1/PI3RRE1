@@ -23,15 +23,13 @@
 ### Contacts
 
 <a href = "mailto: pierrelins18@gmail.com">
-      <img width="30" src="">
+      <img width="35" src="">
     </a>
 <a href = "https://www.linkedin.com/in/pierre-lins/">
       <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     </a>  
     
     
-
-[![Contacts](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-lins/)
 
 ![Snake animation](https://github.com/PI3RRE1/PI3RRE1/blob/output/github-contribution-grid-snake.svg)
 
